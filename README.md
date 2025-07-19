@@ -1,4 +1,4 @@
 # sathwikk
 this is repo
-author-sathwik
+author-sathwikk
 
